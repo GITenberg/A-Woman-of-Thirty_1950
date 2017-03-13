@@ -1,11 +1,14 @@
 _repo: A-Woman-of-Thirty_1950
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: La femme de trente ans. English
 contributor:
   translator:
     agent_name: Marriage, Ellen
     gutenberg_agent_id: '701'
     url: http://www.gutenberg.org/2009/agents/701
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -22,6 +25,8 @@ creator:
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1950#A-Woman-of-Thirty
 gutenberg_issued: '2005-11-16'
 gutenberg_type: Text
 identifiers:
